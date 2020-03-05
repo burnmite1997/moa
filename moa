@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>美國之音</title>
+		<style type="text/css">
+			.ttt{
+				background-color: aqua;
+				color: coral;
+			}
+			.ddd{background: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1583324686153&di=adf115e3370db149c9bc6c76c32c31ce&imgtype=jpg&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D3353155889%2C3310269930%26fm%3D214%26gp%3D0.jpg);}
+		</style>
+		<style type="text/css">
+			
+		</style>
+	</head>
+	<body class="ddd">
+		<table width="100%" border="0">
+			<tr>
+	
+				<td align="right">
+					<table cellspacing="8">					
+						<tr class="ttt"> 
+							<td>中情局</td>
+							<td>總務署</td>
+							<td>檔案記錄署</td>
+							<td>科學基金</td>
+							<td>人事管理處</td>
+							<td>小型企業總署</td>
+							<td>國際發展局</td>
+							<div id="show_time0" style="">	
+							 <script>
+							 setInterval("show_time0.innerHTML=new Date().toLocaleString()+' 星期'+'日壹二三四五六'.charAt(new Date().getDay());",1000);  
+							</script>
+							</div>
+						</tr>
+					</table>
+				</td>
+				
+			</tr>
+			<tr height="50">
+				<td><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5234242&auto=1&height=66"></iframe></td>
+			</tr>
+			<tr>
+				<td align="center">
+					<table border="0">
+						<tr>
+							<td align="center">
+							<img width="500" src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3897942103,1836290441&fm=26&gp=0.jpg" >
+							</td>
+						</tr>
+						<tr height="20"></tr>
+						<tr>
+							<td align="center">
+								<form  action="https://www.baidu.com/s">
+									<input style="height: 40px;"   name="wd" type="text" size="40"/>
+									<button style="height: 40px;" type="submit">沒有人比我更了解中國</button>
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			
+			<tr>
+				<td align="center">
+					<table border="0">
+						<tr height="20"></tr>
+						<tr>
+							<td align="center">
+								<img width="300" src="https://dss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3662549444,2960923850&fm=26&gp=0.jpg" />
+							</td>
+						</tr>
+						<tr><td align="center">歡迎關註美國之音<br>請在2020美國大選中給我投票<br>讓美國更加偉大</td></tr>
+					    <tr>
+					     	<td align="center">
+					     		&copy;2020&nbsp;The White House
+					     	</td>
+					    </tr>
+					</table>
+				</td>
+			</tr>
+			
+			
+		</table>
+	</body>
+</html>
